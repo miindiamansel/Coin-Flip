@@ -1,0 +1,11 @@
+.Coin img{
+    width: 250px;
+    height: 200px;
+}
+.CoinContainer{
+    background-color:#2F3061;
+}
+.Button{
+    background-color: #0E34A0;
+    border-radius: 15%;
+}
